@@ -377,6 +377,7 @@ margin: 3px;
   position: absolute;
   top: 100%;
   left: 43%;
+  border: none;
 }
 
 .play {
@@ -391,6 +392,8 @@ margin: 3px;
   font-size: .8rem;
   color: DDD7FC;
   opacity: .7;
+  display: flex;
+  flex-flow: row nowrap;
 
 }
 
@@ -399,5 +402,10 @@ margin: 3px;
 }
 
 .end {
-  left: 92%;
+  left: 90.5%;
+}
+
+.play {
+  display: block;
+  width: 100%;
 }

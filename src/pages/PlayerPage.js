@@ -17,7 +17,7 @@ const PlayerPage = () => {
   return (
     <main className="contain player">
       <Header type="detail" navigate={navigate} />
-      <Image />
+      <Image imgUrl="../onboarding3.png" />
       <Content header="book title" body="author name" />
       <Audio />
     </main>

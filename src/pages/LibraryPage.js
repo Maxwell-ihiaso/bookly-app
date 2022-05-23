@@ -4,6 +4,10 @@ import Header from "../components/Header";
 import Input from "../components/Input";
 import { useNavigate } from "react-router-dom";
 
+/**
+ *
+ * displays all the books from an API
+ */
 const LibraryPage = () => {
   const navigate = useNavigate();
   return (

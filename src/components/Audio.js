@@ -67,8 +67,8 @@ const Audio = () => {
           <div style={{ width: `${nowWidth}` }} className="now"></div>
         </div>
       </div>
-      <span className="start">{`01:11 ${startCount}`}</span>
-      <span className="end">{`01:11 ${EndTime}`}</span>
+      <span className="start">{startCount}</span>
+      <span className="end">{`${EndTime || "--:--"}`}</span>
       <button onClick={() => audio.play()}>
         <img className="play" src="../play.png" alt="play" aria-label="play" />
       </button>

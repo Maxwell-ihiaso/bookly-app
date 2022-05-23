@@ -1,5 +1,10 @@
 import React from "react";
 
+/**
+ * HEADER
+ * if on BOOKS page - display header for Home Page
+ * if on details page - dusplay header for details
+ */
 const Header = ({ type = "homepage", navigate }) => {
   if (type === "detail")
     return (
