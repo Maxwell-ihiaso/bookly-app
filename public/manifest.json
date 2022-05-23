@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Bookly App",
+  "name": "Listen to your favourite book",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,14 +8,14 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "onboarding1.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "260x260"
     },
     {
-      "src": "logo512.png",
+      "src": "onboarding2.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "260x260"
     }
   ],
   "start_url": ".",
