@@ -292,9 +292,14 @@ margin: 3px;
   box-shadow: inset 1px 1px 5px #F5F5FA;
 }
 
+.book {
+  overflow: auto;
+}
+
 .library {
   justify-content: flex-start;
   align-items: flex-start;
+  height: 100vh;
 }
 
 .library > h1 {

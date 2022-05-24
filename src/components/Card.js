@@ -20,7 +20,8 @@ import React from "react";
 const Card = ({
   imageUrl = "onboarding2.png",
   title = "Book Title",
-  author = "author name",
+  fname = "first name",
+  lname = "last name",
   ...rest
 }) => {
   return (
@@ -30,7 +31,9 @@ const Card = ({
       </div>
       <div className="card-body">
         <h3>{title}</h3>
-        <p>{author}</p>
+        <p>
+          {fname} {lname}
+        </p>
       </div>
     </div>
   );
