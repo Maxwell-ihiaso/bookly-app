@@ -22,7 +22,7 @@ const LibraryPage = () => {
       <h1>my books</h1>
       <Input
         type="text"
-        placeholder="Search Books or Author..."
+        placeholder="Search Books..."
         onChange={(e) => setSearchTerms(e.target.value)}
       />
       <div className="book">
