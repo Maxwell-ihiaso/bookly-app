@@ -1,7 +1,28 @@
-# A React Task
+# Bookly App
 
-## Objective
+---
 
-## Requirements
+[View Demo](https://bookly-app-proj.netlify.app/)
+![Shopping Cart Preview](./public/bookly_app_preview.png)
 
-## Gotchas
+---
+
+## Technology
+
+- Reactjs
+- fetch
+
+## Hooks
+
+- UseState
+- Effect
+
+## Languages
+
+- Javascript
+- CSS3
+- HTML5
+
+## Icons
+
+- SVG
