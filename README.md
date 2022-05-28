@@ -3,6 +3,7 @@
 ---
 
 [View Demo](https://bookly-app-proj.netlify.app/)
+
 ![Bookly App Preview](./public/bookly_app_preview.PNG)
 
 ---
