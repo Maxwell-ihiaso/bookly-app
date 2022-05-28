@@ -3,7 +3,7 @@
 ---
 
 [View Demo](https://bookly-app-proj.netlify.app/)
-![Shopping Cart Preview](./public/bookly_app_preview.png)
+![Bookly App Preview](./public/bookly_app_preview.PNG)
 
 ---
 
